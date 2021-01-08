@@ -9,4 +9,4 @@
   尚未完善，尽请期待。<a href="https://www.mcbbs.net/">可先进入MCBBS</a> 
 
   <h2>Minecraft资源站</h2>
-  <a href="https://mc113.github.io/download">点击进入，获取海量资源</a> 
+  <a href="https://mc113.github.io/ziyuan">点击进入，获取海量资源</a> 

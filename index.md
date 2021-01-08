@@ -12,7 +12,8 @@
   <a href="https://mc113.github.io/ziyuan/">点击进入，获取海量资源</a> 
   
   <h2>Minecraft常用网站</h2>
-  <a href="http://minecraft.net/">我的世界官网</a>
+ 
+ <a href="http://minecraft.net/">我的世界官网</a>
   
   <a href="http://mc.163.com/">我的世界中国版官网</a>
   

@@ -4,7 +4,7 @@
 		 <a href="https://mc113.x.yupoo.com/34433922?uid=1" target="_blank"><img src="https://pic.yupoo.com/mc113/b2ccab5f/0f709ec0.jpg" alt="微信图片_20210515114156.jpg"></a>
 		
 				  <h2>官方QQ群</h2>
-				  <b>尚未完善，尽请期待</a>
+				  <a href="https://mc113.x.yupoo.com/34438766?uid=1" target="_blank"><img src="https://pic.yupoo.com/mc113/64c9801d/2749a821.jpg" alt="join.jpg"></a>
 		            
 			    <h2>我的世界资源站</h2>
 			   <a href="https://mc113.github.io/ziyuan/">点击进入，获取海量资源</a>

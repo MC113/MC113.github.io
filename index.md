@@ -15,4 +15,4 @@
 			    <h2>我的世界资源站</h2>
 			   <a href="https://mc113.github.io/ziyuan/">点击进入，获取海量资源</a>
 			   
-	                    <h2 href="GOLD_GAME.html">首页</h2>
+	                    <a href="GOLD_GAME.html">首页</a>

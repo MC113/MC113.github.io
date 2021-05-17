@@ -1,6 +1,6 @@
 <h1>提示:</h1><br>
-<h2>您当前访问的网址已失效，2秒后自动跳转至新站</h2><br>
-<a>如果你的浏览器没有自动跳转</a><a href="GOLD_GAME.html">请点这里跳转！</a>
+<h2>您当前访问的网址已失效，请前往新站</h2><br>
+<p>如果你的浏览器没有自动跳转</a><a href="GOLD_GAME.html">请点这里跳转！</p>
  
 
 <script type="text/javascript">

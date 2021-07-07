@@ -1,6 +1,6 @@
-<h1>提示:</h1><br>
-<h2>您当前访问的网址已失效，请前往新站</h2><br>
-<p>如果你的浏览器没有自动跳转</p><a href="GOLD_GAME.html">请点这里跳转！</a>
+<h1>致 玩家</h1><br>
+<h2>服务器已下线，感谢您的支持</h2><br>
+<p>观看旧容</p><a href="GOLD_GAME.html">请点这里</a>
  
 
 <script type="text/javascript">
